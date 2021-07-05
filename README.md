@@ -24,17 +24,16 @@
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
 - Full-stack Development
-- Software Development, Training and Consulting
+- Software Development and Consulting
 
 > 🤔 I’m looking to work with ..
 - IT industries
-- SDE team
+- Full Stack Developer team
 
 > 💬 Ask me about ..
 - Computer Science and Engineering
 - Web Development
 
 > 📫 How to reach me ..
-- [Linkedin](https://www.linkedin.com/in/sanchit21/)
-- [Website](https://sanchit2107.herokuapp.com/)
+- [Linkedin](https://www.linkedin.com/in/erbharatp/)
 - [Github](https://github.com/erbharatp1/)
