@@ -37,3 +37,4 @@
 > 📫 How to reach me ..
 - [Linkedin](https://www.linkedin.com/in/erbharatp/)
 - [Github](https://github.com/erbharatp1/)
+- [Email](iambharat.p@gmail.com/)
