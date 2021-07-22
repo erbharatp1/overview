@@ -2,8 +2,8 @@
 <!--
 *erbharatp1/overview.git* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif)
+<!-- 
+![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif) -->
 
 :pushpin: Here are some idea about my profile and work:
 
