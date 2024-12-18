@@ -22,7 +22,6 @@
  
 > 👯 I’m looking to collaborate on ..
 - Open source Projects
-- Full-stack Development
 - Software Development and Consulting
 
 > 🤔 I’m looking to work with ..
