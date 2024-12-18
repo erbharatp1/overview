@@ -5,7 +5,7 @@
 <!-- 
 ![Developer](https://www.ravsanmedia.com/web_assets/images/website.gif) -->
 
-:pushpin: Here are some idea about my profile and work:
+:pushpin: Here are some ideas about my profile and work:
 
  
 > :man_technologist: I’m currently working on ...
@@ -14,9 +14,10 @@
 - Microservice
 
 > 🌱 I’m currently learning ..
-- Microservices
+- Terraform
 - AWS
-- Angular 
+- Angular
+- GitHub action
 
  
 > 👯 I’m looking to collaborate on ..
